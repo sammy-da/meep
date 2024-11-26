@@ -1,0 +1,6 @@
+spec:
+  commands:
+    - path: ./shell
+      name: meep-shell
+      aliases: ["ms"]
+      desc: runs a meep shell

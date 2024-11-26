@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+echo "Meep Shell!"
+read -p 'Wanna meep? (y/n) ' 
+echo "good bye!"
